@@ -6,3 +6,5 @@ This project aims to analyze LinkedIn job postings to uncover trends in hiring, 
 
 linkedin_job_postings.csv - Contains job postings with details such as company name, job title, location, experience level, and more.
 job_skills.csv - Includes information on required skills for different job roles.
+
+# Key Findings and Insights
